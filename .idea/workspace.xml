@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c9b4133-4ca4-4dee-9d9b-4876f08c528d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Seguimiento1/src/main/java/practicas/abstractFactory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seguimiento1/src/main/java/practicas/factoryMethod/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seguimiento1/src/main/java/practicas/prototype/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seguimiento1/src/main/java/practicas/prototype/Model/Receta.java" afterDir="false" />
-    </list>
+    </component>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
+  </project>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -25,22 +20,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ImEstebanCS"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ImEstebanCS/Seguimiento.git",
-    "accountId": "c01f37bc-f8a1-4f70-8ec1-6f61fcc44032"
-  }
-}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
 }]]></component>
-  <component name="ProjectId" id="2nEG6TJ9FUriwTSyNicnMVTpkAD" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -54,7 +35,6 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ImEstebanCS/Desktop/Seguimiento",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,13 +43,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practicas.prototype.Main" />
       <module name="Seguimiento1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practicas.prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,7 +55,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -94,12 +69,8 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6c9b4133-4ca4-4dee-9d9b-4876f08c528d" name="Changes" comment="" />
-      <created>1728530647761</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1728530647761</updated>
-      <workItem from="1728530648510" duration="2451000" />
     </task>
     <servers />
   </component>
