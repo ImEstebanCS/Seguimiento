@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c9b4133-4ca4-4dee-9d9b-4876f08c528d" name="Changes" comment="Ramificaciones, Patron creacional Prototype completado">
-      <change afterPath="$PROJECT_DIR$/Seguimiento1/src/main/java/practicas/abstractFactory/Model/Guitarra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seguimiento1/src/main/java/practicas/abstractFactory/Model/GuitarraFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seguimiento1/src/main/java/practicas/abstractFactory/Model/InstrumentoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seguimiento1/src/main/java/practicas/abstractFactory/Model/PianoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seguimiento1/src/main/java/practicas/abstractFactory/Model/Saxofon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seguimiento1/src/main/java/practicas/abstractFactory/Model/ViolinFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seguimiento1/src/main/java/practicas/abstractFactory/interfaces/Instrumento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Seguimiento1/src/main/java/practicas/abstractFactory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Seguimiento1/src/main/java/practicas/abstractFactory/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="6c9b4133-4ca4-4dee-9d9b-4876f08c528d" name="Changes" comment="AbtractFactory funcional" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.practicas.abstractFactory.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "EstebanBranch",
     "kotlin-language-version-configured": "true",
@@ -119,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728530647761</updated>
-      <workItem from="1728530648510" duration="3732000" />
+      <workItem from="1728530648510" duration="3830000" />
     </task>
     <task id="LOCAL-00001" summary="Ramificaciones, Patron creacional Prototype completado">
       <option name="closed" value="true" />
@@ -129,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728533354829</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="AbtractFactory funcional">
+      <option name="closed" value="true" />
+      <created>1728535798123</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728535798123</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +136,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ramificaciones, Patron creacional Prototype completado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ramificaciones, Patron creacional Prototype completado" />
+    <MESSAGE value="AbtractFactory funcional" />
+    <option name="LAST_COMMIT_MESSAGE" value="AbtractFactory funcional" />
   </component>
 </project>
