@@ -1,4 +1,4 @@
-package practicas.factorymethod;
+package practicas.factorymethod.model;
 
 
 public class Violin implements Instrumento {

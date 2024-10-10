@@ -1,4 +1,5 @@
-package practicas.abstractfactory;
+package practicas.abstractfactory.model;
+
 
 public class SillaModerna implements Silla {
     @Override

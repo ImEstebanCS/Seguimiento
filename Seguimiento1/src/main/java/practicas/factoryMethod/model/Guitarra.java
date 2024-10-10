@@ -1,5 +1,4 @@
-package practicas.factorymethod;
-
+package practicas.factorymethod.model;
 
 public class Guitarra implements Instrumento {
     @Override

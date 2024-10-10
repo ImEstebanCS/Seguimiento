@@ -1,4 +1,4 @@
-package practicas.abstractfactory;
+package practicas.abstractfactory.model;
 
 
 public interface Silla {

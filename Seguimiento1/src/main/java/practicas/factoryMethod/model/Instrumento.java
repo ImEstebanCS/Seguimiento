@@ -1,4 +1,4 @@
-package practicas.factorymethod;
+package practicas.factorymethod.model;
 
 public interface Instrumento {
     void tocar();

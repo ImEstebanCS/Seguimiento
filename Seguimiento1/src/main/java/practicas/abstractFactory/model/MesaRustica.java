@@ -1,4 +1,4 @@
-package practicas.abstractfactory;
+package practicas.abstractfactory.model;
 
 public class MesaRustica implements Mesa {
     @Override
